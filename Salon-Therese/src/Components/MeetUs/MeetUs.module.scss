@@ -1,0 +1,16 @@
+.MeetUs {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0px 5px rgba(0,0,0,0.2);
+    margin: 30px;
+
+    img {
+        width: 50%;
+        border-radius: 500px;
+        margin: 30px;
+    }
+
+}
