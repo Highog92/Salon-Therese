@@ -1,0 +1,24 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="598" viewBox="0 0 550 598">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="8" width="218" height="83" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect y="8" width="538" height="75" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_1" data-name="Rectangle 1" stroke="#707070" stroke-width="1">
+    <rect width="550" height="598" stroke="none"/>
+    <rect x="0.5" y="0.5" width="549" height="597" fill="none"/>
+  </g>
+  <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(175 152)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="202" height="202" stroke="none"/>
+    <rect x="0.5" y="0.5" width="201" height="201" fill="none"/>
+  </g>
+  <g id="Scroll_Group_3" data-name="Scroll Group 3" transform="translate(170 277)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <text id="Salon" transform="translate(0 133)" font-size="95.078" font-family="Modern-Regular, 'Modern No\. \32 0'" baseline-shift="54.3278977819031"><tspan x="0" y="0">Salon</tspan></text>
+  </g>
+  <g id="Scroll_Group_2" data-name="Scroll Group 2" transform="translate(7 515)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+    <text id="Therese" transform="translate(0 121)" fill="#fff" font-size="86.328" font-family="Modern-Regular, 'Modern No\. \32 0'" letter-spacing="0.25em" baseline-shift="49.32839980469587"><tspan x="0" y="0">THERESE</tspan></text>
+  </g>
+</svg>

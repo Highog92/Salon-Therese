@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+:root {
+    /* colors */
+    --black: #191919;
+    --white: #ffffff;
+    --lightBlue: #00bcd7;
+    --fadedLightBlue: #144477;
+    --darkBlue: #1e0443;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+    scroll-behavior: smooth;
+    font-family: Playfair Display, Arial, Helvetica, sans-serif;
+    background-color: var(--white);
+    /* margin: 0 10%; */
+    border: 0 1px 0 1px solid;
+}
+
+p{
+    font-size: 1.4rem;
+    color: var(--black);
+}
+

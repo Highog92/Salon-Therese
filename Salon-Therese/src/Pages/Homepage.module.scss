@@ -1,0 +1,44 @@
+.homePage {
+
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    border-radius: 8px;
+    border-color: var(--lightblue);
+    padding: 0 10%;
+    border: 1px solid;
+
+    div {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+
+    img {
+        width: 60%;
+        border-radius: 500px;
+        margin: 30px 0 70px 0;
+    }
+
+    p {
+        font-size: 1.5rem;
+        margin: 1rem;
+        
+    }
+}
+
+@media (max-width: 650px) {
+
+    .homePage {
+        margin: 0;
+        padding: 0;
+        border: none;
+
+        img {
+            width: 90%;
+        }
+    }
+}
